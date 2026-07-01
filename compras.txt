@@ -1,7 +1,11 @@
+
 Leche
 Pan
 Huevo
 Azuncar
 queso
 arroz
+manzana
+uva
+bananos
 
