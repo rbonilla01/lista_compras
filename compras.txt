@@ -2,4 +2,6 @@ Leche
 Pan
 Huevo
 Azuncar
+queso
+arroz
 
